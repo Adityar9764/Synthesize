@@ -1,2 +1,2 @@
 # Synthesize
- "Next-Gen AI PDF Insight Engine"
+ Next-Gen AI PDF Insight Engine
