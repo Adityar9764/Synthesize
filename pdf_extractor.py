@@ -5,4 +5,7 @@ def extract_text_from_pdf(file):
     with pdfplumber.open(file) as pdf:
         for page in pdf.pages:
             text += page.extract_text() + "\n"  # Preserve formatting
-    return text.strip()
+    return text.strip()  
+
+
+

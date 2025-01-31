@@ -1,4 +1,3 @@
-# text_cleaner.py
 
 import re
 

@@ -1,5 +1,6 @@
 from transformers import T5Tokenizer, T5ForConditionalGeneration
 
+# Function to summarize text
 def summarize_text(text):
     tokenizer = T5Tokenizer.from_pretrained("t5-base")
     model = T5ForConditionalGeneration.from_pretrained("t5-base")
