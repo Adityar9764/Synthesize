@@ -35,8 +35,8 @@ python --version
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/Adityar9764/Synthesize
+   cd Synthesize
    ```
 
 2. Create and activate a virtual environment (recommended):
